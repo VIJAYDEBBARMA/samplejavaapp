@@ -30,7 +30,7 @@ public class LoggerStackTraceUtil {
 		return b.toString(); 
 	}
 
-	// Static Logger function
+	//// Static Logger function
 	public static void printErrorMessage(Throwable th)
 	{
 		try{
